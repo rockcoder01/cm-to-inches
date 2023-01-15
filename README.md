@@ -14,3 +14,6 @@ It's important to note that while converting from cm to inches or vice versa it'
 Conversion calculator tool and online websites are readily available for easy conversion of measurements. But it's important to understand the basic conversion as well for quick calculations.
 
 out tool help you to convert your unit case.
+
+For example, <b>1.5 cm x 0.3937 = 0.5906 inches</b>.
+So, 1.5 cm is equivalent to 0.5906 inches.
